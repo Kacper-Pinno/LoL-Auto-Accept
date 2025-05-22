@@ -31,6 +31,11 @@ pip install -r requirements.txt
 ```bash
 python main.py
 ```
+### Getting .exe file
+To create an .exe file run this from your environment:
+```bash
+pyinstaller gui.py --noconsole --onefile --add-data "assets;assets" --icon=assets/x9_icon2.ico
+```
 
 ## Screenshots
 ![Auto Accept Screenshot](assets/accept_button.png)
