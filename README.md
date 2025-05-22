@@ -33,4 +33,4 @@ python main.py
 ```
 
 ## Screenshots
-![Auto Accept Screenshot](assets/screenshot.png)
+![Auto Accept Screenshot](assets/accept_button.png)
