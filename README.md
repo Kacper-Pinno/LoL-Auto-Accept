@@ -7,8 +7,8 @@ A Python automation tool that detects in-game states in League of Legends and au
 - Automatically clicks the accept button.
 - Lightweight and fast.
 
-- ## Description
-- Status List:
+## Description
+### Status List:
 - "unknown" - image recognition doesn't recognise the status and is searching for available statuses.
 - "lobby" - user is currently in the lobby.
 - "queue" - user is currently searching for a match.
