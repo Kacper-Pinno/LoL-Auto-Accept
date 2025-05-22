@@ -16,3 +16,21 @@ A Python automation tool that detects in-game states in League of Legends and au
 When match is found and "accept button" appears, the button gets clicked, meaning the match has been accepted.
 Next, the application searches for "continue button", when the button appears (when the match ends), the button gets clicked.
 Finally the app loops to the first state.
+
+## Installation
+
+1. Clone the repo
+```bash
+git clone https://github.com/yourusername/LeagueAutoAccept.git
+```
+2. Install dependencies
+```bash
+pip install -r requirements.txt
+```
+3. Run the app
+```bash
+python main.py
+```
+
+## Screenshots
+![Auto Accept Screenshot](assets/screenshot.png)
