@@ -34,5 +34,5 @@ python main.py
 ### Creating .exe file
 To create an .exe file run this from your environment:
 ```bash
-pyinstaller gui.py --noconsole --onefile --add-data "assets;assets" --icon=assets/x9_icon2.ico
+pyinstaller gui.py --noconsole --onefile --add-data "assets;assets" --icon=assets/x9_icon.ico
 ```
